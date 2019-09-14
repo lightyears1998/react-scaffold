@@ -1,0 +1,9 @@
+{
+  "name": "react-scaffold",
+  "version": "0.1.0",
+  "description": "This is a general template for using react to create single page application.",
+  "main": "src/index.ts",
+  "repository": "https://github.com/lightyears1998/react-scaffold",
+  "author": "lightyears <lightyears1998@hotmail.com>",
+  "license": "Unlicense"
+}
