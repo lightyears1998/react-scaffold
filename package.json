@@ -5,5 +5,26 @@
   "main": "src/index.ts",
   "repository": "https://github.com/lightyears1998/react-scaffold",
   "author": "lightyears <lightyears1998@hotmail.com>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "scripts": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.6.0",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "@babel/preset-react": "^7.0.0",
+    "@babel/preset-typescript": "^7.6.0",
+    "@babel/register": "^7.6.0",
+    "@types/node": "^12.7.5",
+    "@types/webpack": "^4.39.1",
+    "babel-eslint": "^10.0.3",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.2.0",
+    "eslint": "^6.4.0",
+    "style-loader": "^1.0.0",
+    "typescript": "^3.6.3",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8",
+    "webpack-dev-server": "^3.8.0"
+  }
 }

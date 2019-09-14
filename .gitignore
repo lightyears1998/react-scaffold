@@ -1,2 +1,6 @@
+# Project build
+/dist
+
 # Node.js
-node_modules
+/node_modules
+yarn-error.log
