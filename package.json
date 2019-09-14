@@ -7,6 +7,7 @@
   "author": "lightyears <lightyears1998@hotmail.com>",
   "license": "Unlicense",
   "scripts": {
+    "build": "webpack --mode production",
     "start:dev": "webpack-dev-server --open"
   },
   "dependencies": {},
