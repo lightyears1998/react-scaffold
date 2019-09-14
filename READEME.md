@@ -1,4 +1,14 @@
-# Steps
+# A Scaffold for Using React with Typescript and Other Tech
+
+This scaffold include:
+
+1. JavaScript Compiler Babel
+2. TypeScript
+3. ESLint
+4. Webpack
+5. React
+
+## Steps
 
 This template use yarn as node.js package manager.
 
@@ -27,7 +37,7 @@ yarn add --dev @types/react @types/react-dom @types/react
 
 ## Linter
 
-ESLint is enough. Check this article: [TSLint 2019](https://medium.com/palantir/tslint-in-2019-1a144c2317a9).
+TSLint is migrating to ESLint. Check this article: [TSLint 2019](https://medium.com/palantir/tslint-in-2019-1a144c2317a9).
 
 ---
 

@@ -5,15 +5,13 @@ import {speak} from "./freedom"
 console.log("Hello, world!")
 speak("This is an example for TypeScript file.")
 
-window.onload = ()=> {
-    alert("Happy coding!")
-}
-
 class App extends Component {
     render() {
         return (
             <div>
                 <h1>Helle, world!</h1>
+                <p>This is a template for creating single page application with React.js</p>
+                <p>Have fun coding!</p>
             </div>
         )
     }
