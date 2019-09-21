@@ -19,7 +19,7 @@ yarn add --dev babel-eslint  # A Babel parser wrapper for ESlint.
 
 # TypeScript
 yarn add --dev typescript @babel/preset-typescript
-yarn add @types/node
+yarn add --dev @types/node
 
 # ESlint
 yarn add --dev eslint
