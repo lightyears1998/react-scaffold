@@ -32,7 +32,7 @@ yarn add --dev @types/webpack
 # React
 yarn add --dev react react-dom
 yarn add --dev @babel/preset-react
-yarn add --dev @types/react @types/react-dom @types/react
+yarn add --dev @types/react @types/react-dom
 ```
 
 ## Linter
